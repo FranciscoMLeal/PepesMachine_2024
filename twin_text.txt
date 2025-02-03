@@ -1,8 +1,9 @@
-A = True
+A = false
 height = 500
 width = 900
-tempo = 3.6
-color_ratio = [39.0, 39.0, 11.0, 11.0]
+tempo = 3.8
+color_ratio = [18.5, 18.5, 31.5, 31.5]
 canvas_dividend = 30
-nbr_of_colors = 10
-FinalPepeColors = ['#F4736C', '#FAEEE0', '#FFC2C3', '#FBAE84', '#F9A2BF', '#AA7F68', '#ECDCC5', '#EA4B3D', '#3C4A82', '#9DBC53']
+nbr_of_colors = 6
+FinalPepeColors = ['#FAEEE0', '#FBAE84', '#F688DF', '#EA4B3D', '#63B8B4', '#A7B3EF']
+
